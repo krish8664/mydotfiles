@@ -1,0 +1,15 @@
+# bash alias
+# Author : Unnikrishnan
+
+# Listing commands
+alias l='ls -CF '
+alias ll='ls -alF '
+alias la='ls -A'
+
+# git shortcuts
+alias ga='git add '
+alias gs='git status '
+alias gc='git commit '
+alias gb='git branch '
+alias get='git clone '
+
